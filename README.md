@@ -57,7 +57,7 @@ python main_ultralytics_onnx.py --format onnx --precision fp16 --modeltype yolov
 | `--modelversion` | `1` | integer |
 
 ## Status
-Work in progress.
+Completed. This project was developed as a graduation project and is no longer under activedevelopment. The code is shared here for reference and learning.
 
 ## License
-Add a license of your choice (e.g. MIT).
+Released under the MIT License.
