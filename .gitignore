@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Model weights & exports (large - host elsewhere or use Git LFS)
+model/
+*.onnx
+*.pt
+*.weights
+*.ncnn.*
+*.param
+*.bin
+*.mnn
+
+# Calibration outputs / captured images (optional - remove if you want to commit them)
+*.npz
+calib_images/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
